@@ -1,0 +1,11 @@
+{
+  "name": "sandbox-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kamataryo <mugil.cephalus+ciconia.local@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.11.0",
+    "puppeteer-firefox": "^0.4.2"
+  }
+}
